@@ -1,0 +1,12 @@
+C:\ProjekatProg\HakatonLA\haka\domain\bin\Debug\net7.0\domain.deps.json
+C:\ProjekatProg\HakatonLA\haka\domain\bin\Debug\net7.0\domain.dll
+C:\ProjekatProg\HakatonLA\haka\domain\bin\Debug\net7.0\domain.pdb
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.AssemblyInfoInputs.cache
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.AssemblyInfo.cs
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.csproj.CoreCompileInputs.cache
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.sourcelink.json
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.dll
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\refint\domain.dll
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\domain.pdb
+C:\ProjekatProg\HakatonLA\haka\domain\obj\Debug\net7.0\ref\domain.dll

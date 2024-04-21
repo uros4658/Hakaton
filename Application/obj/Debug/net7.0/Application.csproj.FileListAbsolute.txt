@@ -1,0 +1,16 @@
+C:\ProjekatProg\HakatonLA\haka\Application\bin\Debug\net7.0\Application.deps.json
+C:\ProjekatProg\HakatonLA\haka\Application\bin\Debug\net7.0\Application.dll
+C:\ProjekatProg\HakatonLA\haka\Application\bin\Debug\net7.0\Application.pdb
+C:\ProjekatProg\HakatonLA\haka\Application\bin\Debug\net7.0\domain.dll
+C:\ProjekatProg\HakatonLA\haka\Application\bin\Debug\net7.0\domain.pdb
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.sourcelink.json
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Applicat.44B5EDA2.Up2Date
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.dll
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\refint\Application.dll
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\Application.pdb
+C:\ProjekatProg\HakatonLA\haka\Application\obj\Debug\net7.0\ref\Application.dll

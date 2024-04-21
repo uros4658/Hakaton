@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zjh+JjFLVwc8dZ3G6p2lF6Uh70Nhgdj39jMU0ZPJqAeDaAm3thAHFT3ZDI05AmZC7rPR6JT5cRv5GmoeIIi7dQ==",
+  "success": true,
+  "projectFilePath": "C:\\ProjekatProg\\HakatonLA\\haka\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
